@@ -1,0 +1,3 @@
+#regle A
+ressources\tilesets\rules.tmx
+ressources\tilesets\rules-riviere.tmx
