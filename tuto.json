@@ -125,12 +125,12 @@
         {
          "draworder":"topdown",
          "id":31,
-         "name":"Calque d'Objets 2",
+         "name":"objects",
          "objects":[
                 {
                  "height":167,
                  "id":1,
-                 "name":"msg-1",
+                 "name":"msg1",
                  "rotation":0,
                  "type":"",
                  "visible":true,

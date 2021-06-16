@@ -2,7 +2,7 @@ let helloWorldPopup;
 
 // Open the popup when we enter a given zone
 helloWorldPopup = WA.onEnterZone('tuto-1', () => {
-    WA.openPopup("msg-1", 'Coucou !', [{
+    WA.openPopup("msg1", 'Coucou !', [{
         label: "Fermer",
         className: "primary",
         callback: (popup) => {
