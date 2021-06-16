@@ -30,7 +30,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/sel\/3xsel\/start.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/sel\/3xsel\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -124,20 +124,9 @@
         }, 
         {
          "draworder":"topdown",
-         "id":31,
-         "name":"objects",
-         "objects":[
-                {
-                 "height":167,
-                 "id":1,
-                 "name":"msg1",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":180,
-                 "x":848,
-                 "y":549
-                }],
+         "id":3,
+         "name":"floorLayer",
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -146,9 +135,20 @@
         }, 
         {
          "draworder":"topdown",
-         "id":3,
-         "name":"floorLayer",
-         "objects":[],
+         "id":31,
+         "name":"objects",
+         "objects":[
+                {
+                 "height":196,
+                 "id":1,
+                 "name":"msg1",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":181,
+                 "x":819,
+                 "y":508
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
