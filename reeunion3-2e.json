@@ -155,19 +155,19 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
          "columns":48,
          "firstgid":1,
-         "image":"atlas_32x.png",
+         "image":"..\/3xsel\/retro_interior.png",
          "imageheight":512,
          "imagewidth":1536,
          "margin":0,
          "name":"atlas_32x",
          "spacing":0,
-         "tilecount":768,
+         "tilecount":1536,
          "tileheight":32,
          "tiles":[
                 {
@@ -876,6 +876,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":25
 }
