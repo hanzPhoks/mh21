@@ -132,7 +132,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/sel\/3xsel\/map.json#left"
+                 "value":"https:\/\/play.workadventu.re\/@\/sel\/mh21\/map.json#left"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -150,7 +150,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/sel\/3xsel\/reeunion3.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/sel\/mh21\/reeunion3.json"
                 }],
          "type":"tilelayer",
          "visible":true,
