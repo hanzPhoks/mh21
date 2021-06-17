@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "tuto.json",
     "automapping.whileDrawing": false,
     "expandedProjectPaths": [
         "C:/Users/Schengele/Documents/SEL-workadventure",
@@ -973,8 +973,8 @@
             "scale": 0.3112239583333333,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1283.6415362731154,
-                "y": 960.7229520542214
+                "x": 1277.2152957911474,
+                "y": 955.9032716927455
             }
         },
         "detente.json#RPG Nature Tileset": {
@@ -987,11 +987,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 0.3598125,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 1600.8337675872851,
-                "y": 961.6119506687512
+                "x": 3011.333333333333,
+                "y": 874.6666666666666
             }
         },
         "map.json#atlas_32x": {
@@ -1007,8 +1007,8 @@
             "scale": 0.75,
             "selectedLayer": 25,
             "viewCenter": {
-                "x": 1104,
-                "y": 800
+                "x": 395.3333333333333,
+                "y": 622.6666666666665
             }
         },
         "plusloin.json#RPG Nature Tileset": {
@@ -1021,11 +1021,11 @@
             "scaleInDock": 1
         },
         "reeunion.json": {
-            "scale": 0.5,
+            "scale": 0.75,
             "selectedLayer": 20,
             "viewCenter": {
-                "x": 784,
-                "y": 800
+                "x": 1436.6666666666665,
+                "y": 660
             }
         },
         "reeunion.json#RPG Nature Tileset": {
@@ -1155,10 +1155,10 @@
         },
         "tuto.json": {
             "scale": 1,
-            "selectedLayer": 10,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 952,
-                "y": 367
+                "x": 1361.5,
+                "y": 366
             }
         },
         "tuto.json#Retro_exterior": {
@@ -1180,10 +1180,13 @@
     "map.renderOrder": null,
     "map.width": 40,
     "openFiles": [
+        "detente.json",
+        "tuto.json"
     ],
     "project": "mh21.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "detente.json",
         "tuto.json",
         "reeunion3-2e.json",
         "reeunion3.json",
@@ -1194,7 +1197,6 @@
         "reeunion.json",
         "plusloin.json",
         "map.json",
-        "detente.json",
         "C:/Users/Schengele/Documents/GitHub/visa/bottom.json"
     ],
     "resizeMap.removeObjects": true,
