@@ -1034,6 +1034,20 @@
         "mittlive.json#logos": {
             "scaleInDock": 1
         },
+        "mittshop.json": {
+            "scale": 0.40809859154929573,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1105.1251078515963,
+                "y": 801.276962899051
+            }
+        },
+        "mittshop.json#atlas_32x-super-retro": {
+            "scaleInDock": 1
+        },
+        "mittshop.json#logos": {
+            "scaleInDock": 1
+        },
         "plusloin.json": {
             "scale": 0.75,
             "selectedLayer": 4,

@@ -128,15 +128,15 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":131.666666666667,
+                 "height":192.333333333334,
                  "id":2,
                  "name":"msg1",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":124.666666666667,
-                 "x":1197.5,
-                 "y":264.5
+                 "width":229.333333333333,
+                 "x":1198.16666666667,
+                 "y":259.833333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
