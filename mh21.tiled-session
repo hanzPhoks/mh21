@@ -982,11 +982,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 0.33,
+            "scale": 0.5,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 1643.939393939394,
-                "y": 1106.060606060606
+                "x": 2327,
+                "y": 576
             }
         },
         "map.json#atlas_32x": {
@@ -1003,8 +1003,8 @@
             "scale": 0.33,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 1375.757575757576,
-                "y": 1118.1818181818182
+                "x": 1277.2727272727275,
+                "y": 959.090909090909
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1016,14 +1016,15 @@
             "scaleInEditor": 1
         },
         "mittcamp.json#logos": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "mittlive.json": {
             "scale": 0.53675,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 797.3917093619003,
-                "y": 799.2547741034001
+                "x": 798.3232417326503,
+                "y": 798.3232417326502
             }
         },
         "mittlive.json#atlas_32x": {
@@ -1039,11 +1040,11 @@
             "scaleInEditor": 1
         },
         "mittshop.json": {
-            "scale": 0.40809859154929573,
-            "selectedLayer": 0,
+            "scale": 0.5,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 1083.0716134598792,
-                "y": 798.8265746333047
+                "x": 466,
+                "y": 630
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
@@ -1192,7 +1193,7 @@
             "scale": 2.68375,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 143.82859804378202,
+                "x": 143.82859804378205,
                 "y": 160.22356776898
             }
         },
@@ -1205,18 +1206,19 @@
             }
         },
         "tuto.json": {
-            "scale": 1.5,
-            "selectedLayer": 9,
+            "scale": 0.75,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1231.3333333333333,
-                "y": 312.6666666666667
+                "x": 959.3333333333333,
+                "y": 479.33333333333337
             }
         },
         "tuto.json#Retro_exterior": {
             "scaleInDock": 1
         },
         "tuto.json#logos": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         }
     },
     "openFiles": [
@@ -1229,6 +1231,7 @@
     "project": "mh21.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "ressources/tilesets/rules-riviere.tmx",
         "tuto.json",
         "mittshop.json",
         "mittcamp.json",
@@ -1239,7 +1242,6 @@
         "plusloin.json",
         "reeunion.json",
         "reeunion3-2e.json",
-        "reeunion3.json",
-        "reeunion2-2e.json"
+        "reeunion3.json"
     ]
 }
