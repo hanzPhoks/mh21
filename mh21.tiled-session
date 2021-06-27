@@ -1,15 +1,15 @@
 {
-    "activeFile": "map.json",
+    "activeFile": "mittshop.json",
     "expandedProjectPaths": [
-        "ressources/tilesets",
         "ressources",
+        "ressources/tilesets",
         ".",
         "C:/Users/Schengele/Documents/SEL-workadventure"
     ],
     "fileStates": {
         "": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 2
         },
         "C:/Program Files/Tiled/examples/hexagonal-mini.tmx#hex mini": {
             "scaleInDock": 1
@@ -523,6 +523,23 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 560,
+                "y": 464
+            }
+        },
+        "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json#logos": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json#retro_interior_atlas_32x": {
+            "scaleInDock": 0.75
+        },
+        "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json#retro_rpg_exterior_atlas_32x": {
+            "scaleInDock": 1
+        },
         "C:/Users/Schengele/Documents/GitHub/visa/house1.json": {
             "scale": 1,
             "selectedLayer": 3,
@@ -647,7 +664,7 @@
             "scale": 0.75,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 351.99999999999994,
+                "x": 352,
                 "y": 525.3333333333334
             }
         },
@@ -676,8 +693,8 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 493.33333333333326,
-                "y": 746.6666666666665
+                "x": 493.33333333333337,
+                "y": 745.3333333333333
             }
         },
         "C:/Users/Schengele/Documents/GitHub/visa/right.json#logos": {
@@ -708,10 +725,10 @@
         },
         "C:/Users/Schengele/Documents/GitHub/visa/start.json": {
             "scale": 1,
-            "selectedLayer": 5,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 1112,
-                "y": 507
+                "x": 1261,
+                "y": 1034
             }
         },
         "C:/Users/Schengele/Documents/GitHub/visa/start.json#logos": {
@@ -726,11 +743,11 @@
             "scaleInEditor": 1
         },
         "C:/Users/Schengele/Documents/GitHub/visa/top.json": {
-            "scale": 1,
-            "selectedLayer": 1,
+            "scale": 4,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 1018,
-                "y": 1567
+                "x": 2084.5,
+                "y": 1226.25
             }
         },
         "C:/Users/Schengele/Documents/GitHub/visa/top.json#logos": {
@@ -983,10 +1000,10 @@
         },
         "map.json": {
             "scale": 0.5,
-            "selectedLayer": 17,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 2327,
-                "y": 576
+                "x": 1044,
+                "y": 958
             }
         },
         "map.json#atlas_32x": {
@@ -1001,10 +1018,10 @@
         },
         "mittcamp.json": {
             "scale": 0.33,
-            "selectedLayer": 15,
+            "selectedLayer": 25,
             "viewCenter": {
-                "x": 1277.2727272727275,
-                "y": 959.090909090909
+                "x": 1196.969696969697,
+                "y": 1245.4545454545455
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1013,18 +1030,18 @@
         },
         "mittcamp.json#atlas_32x-super-retro": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 1.5
         },
         "mittcamp.json#logos": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "mittlive.json": {
-            "scale": 0.53675,
-            "selectedLayer": 0,
+            "scale": 0.5,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 798.3232417326503,
-                "y": 798.3232417326502
+                "x": 956,
+                "y": 696
             }
         },
         "mittlive.json#atlas_32x": {
@@ -1040,11 +1057,11 @@
             "scaleInEditor": 1
         },
         "mittshop.json": {
-            "scale": 0.5,
-            "selectedLayer": 28,
+            "scale": 0.75,
+            "selectedLayer": 30,
             "viewCenter": {
-                "x": 466,
-                "y": 630
+                "x": 648,
+                "y": 460
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
@@ -1207,10 +1224,10 @@
         },
         "tuto.json": {
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 959.3333333333333,
-                "y": 479.33333333333337
+                "x": 1066.6666666666665,
+                "y": 276
             }
         },
         "tuto.json#Retro_exterior": {
@@ -1221,6 +1238,7 @@
             "scaleInEditor": 1
         }
     },
+    "map.lastUsedFormat": "json",
     "openFiles": [
         "tuto.json",
         "map.json",
@@ -1229,19 +1247,19 @@
         "mittshop.json"
     ],
     "project": "mh21.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
-        "ressources/tilesets/rules-riviere.tmx",
+        "C:/Users/Schengele/Documents/GitHub/visa/right.json",
+        "C:/Users/Schengele/Documents/GitHub/visa/top.json",
+        "C:/Users/Schengele/Documents/GitHub/visa/map.json",
         "tuto.json",
-        "mittshop.json",
-        "mittcamp.json",
-        "mittlive.json",
         "map.json",
+        "mittlive.json",
+        "mittcamp.json",
+        "mittshop.json",
+        "C:/Users/Schengele/Documents/GitHub/visa/start.json",
+        "ressources/tilesets/rules-riviere.tmx",
         "ressources/tilesets/logos.tsx",
-        "detente.json",
-        "plusloin.json",
-        "reeunion.json",
-        "reeunion3-2e.json",
-        "reeunion3.json"
+        "detente.json"
     ]
 }
