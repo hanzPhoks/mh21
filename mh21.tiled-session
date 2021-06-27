@@ -1,4 +1,8 @@
 {
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
     "activeFile": "mittshop.json",
     "expandedProjectPaths": [
         "ressources",
@@ -981,6 +985,27 @@
                 "y": 80.16779669284426
             }
         },
+        "chapelle.json": {
+            "scale": 1.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 245.3333333333333,
+                "y": 244
+            }
+        },
+        "chapelle.json#Retro_exterior": {
+            "scaleInDock": 1
+        },
+        "chapelle.json#logos": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "chapelle.json#modern_interior": {
+            "scaleInDock": 1
+        },
+        "chapelle.json#retro_interior": {
+            "scaleInDock": 1
+        },
         "detente.json": {
             "scale": 0.3112239583333333,
             "selectedLayer": 0,
@@ -999,11 +1024,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "scale": 0.33,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1044,
-                "y": 958
+                "x": 609.0909090909092,
+                "y": 681.8181818181819
             }
         },
         "map.json#atlas_32x": {
@@ -1017,11 +1042,11 @@
             "scaleInEditor": 1
         },
         "mittcamp.json": {
-            "scale": 0.33,
-            "selectedLayer": 25,
+            "scale": 4,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 1196.969696969697,
-                "y": 1245.4545454545455
+                "x": 1234.25,
+                "y": 969
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1038,10 +1063,10 @@
         },
         "mittlive.json": {
             "scale": 0.5,
-            "selectedLayer": 21,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 956,
-                "y": 696
+                "x": 456,
+                "y": 768
             }
         },
         "mittlive.json#atlas_32x": {
@@ -1058,10 +1083,10 @@
         },
         "mittshop.json": {
             "scale": 0.75,
-            "selectedLayer": 30,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 648,
-                "y": 460
+                "x": 646.6666666666665,
+                "y": 458.6666666666666
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
@@ -1238,7 +1263,9 @@
             "scaleInEditor": 1
         }
     },
+    "map.height": 50,
     "map.lastUsedFormat": "json",
+    "map.width": 30,
     "openFiles": [
         "tuto.json",
         "map.json",
@@ -1247,8 +1274,12 @@
         "mittshop.json"
     ],
     "project": "mh21.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
+        "ressources/tilesets/retro_interior.tsx",
+        "ressources/tilesets/retro_exterior.tsx",
+        "ressources/tilesets/logos.tsx",
+        "ressources/tilesets/modern_interior.tsx",
         "C:/Users/Schengele/Documents/GitHub/visa/right.json",
         "C:/Users/Schengele/Documents/GitHub/visa/top.json",
         "C:/Users/Schengele/Documents/GitHub/visa/map.json",
@@ -1256,10 +1287,6 @@
         "map.json",
         "mittlive.json",
         "mittcamp.json",
-        "mittshop.json",
-        "C:/Users/Schengele/Documents/GitHub/visa/start.json",
-        "ressources/tilesets/rules-riviere.tmx",
-        "ressources/tilesets/logos.tsx",
-        "detente.json"
+        "mittshop.json"
     ]
 }
