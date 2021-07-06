@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "mittshop.json",
+    "activeFile": "mittcamp.json",
     "expandedProjectPaths": [
-        "ressources",
         "ressources/tilesets",
+        "C:/Users/Schengele/Documents/SEL-workadventure",
         ".",
-        "C:/Users/Schengele/Documents/SEL-workadventure"
+        "ressources"
     ],
     "fileStates": {
         "": {
@@ -529,7 +529,7 @@
         },
         "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json": {
             "scale": 0.75,
-            "selectedLayer": 1,
+            "selectedLayer": 16,
             "viewCenter": {
                 "x": 560,
                 "y": 464
@@ -986,15 +986,15 @@
             }
         },
         "chapelle.json": {
-            "scale": 1.5,
-            "selectedLayer": 5,
+            "scale": 2,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 245.3333333333333,
-                "y": 244
+                "x": 303,
+                "y": 281
             }
         },
         "chapelle.json#Retro_exterior": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "chapelle.json#logos": {
             "scaleInDock": 1,
@@ -1004,7 +1004,7 @@
             "scaleInDock": 1
         },
         "chapelle.json#retro_interior": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "detente.json": {
             "scale": 0.3112239583333333,
@@ -1024,11 +1024,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 0.33,
-            "selectedLayer": 12,
+            "scale": 0.75,
+            "selectedLayer": 27,
             "viewCenter": {
-                "x": 609.0909090909092,
-                "y": 681.8181818181819
+                "x": 1397.333333333333,
+                "y": 594.6666666666665
             }
         },
         "map.json#atlas_32x": {
@@ -1042,11 +1042,11 @@
             "scaleInEditor": 1
         },
         "mittcamp.json": {
-            "scale": 4,
+            "scale": 0.5,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 1234.25,
-                "y": 969
+                "x": 1293,
+                "y": 1090
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1062,11 +1062,11 @@
             "scaleInEditor": 1
         },
         "mittlive.json": {
-            "scale": 0.5,
-            "selectedLayer": 17,
+            "scale": 0.75,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 456,
-                "y": 768
+                "x": 710,
+                "y": 720
             }
         },
         "mittlive.json#atlas_32x": {
@@ -1074,7 +1074,7 @@
             "scaleInEditor": 1
         },
         "mittlive.json#atlas_32x-super-retro": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "mittlive.json#logos": {
@@ -1082,11 +1082,11 @@
             "scaleInEditor": 1
         },
         "mittshop.json": {
-            "scale": 0.75,
-            "selectedLayer": 5,
+            "scale": 0.5,
+            "selectedLayer": 25,
             "viewCenter": {
-                "x": 646.6666666666665,
-                "y": 458.6666666666666
+                "x": 318,
+                "y": 698
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
@@ -1249,10 +1249,10 @@
         },
         "tuto.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 1066.6666666666665,
-                "y": 276
+                "x": 794.6666666666665,
+                "y": 298.6666666666667
             }
         },
         "tuto.json#Retro_exterior": {
@@ -1271,22 +1271,23 @@
         "map.json",
         "mittlive.json",
         "mittcamp.json",
-        "mittshop.json"
+        "mittshop.json",
+        "chapelle.json"
     ],
     "project": "mh21.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json",
+        "tuto.json",
+        "map.json",
+        "mittlive.json",
+        "chapelle.json",
+        "mittshop.json",
+        "mittcamp.json",
         "ressources/tilesets/retro_interior.tsx",
         "ressources/tilesets/retro_exterior.tsx",
         "ressources/tilesets/logos.tsx",
         "ressources/tilesets/modern_interior.tsx",
-        "C:/Users/Schengele/Documents/GitHub/visa/right.json",
-        "C:/Users/Schengele/Documents/GitHub/visa/top.json",
-        "C:/Users/Schengele/Documents/GitHub/visa/map.json",
-        "tuto.json",
-        "map.json",
-        "mittlive.json",
-        "mittcamp.json",
-        "mittshop.json"
+        "C:/Users/Schengele/Documents/GitHub/visa/right.json"
     ]
 }
