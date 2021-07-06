@@ -1025,10 +1025,10 @@
         },
         "map.json": {
             "scale": 0.75,
-            "selectedLayer": 8,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 543.3333333333334,
-                "y": 1752
+                "x": 283.33333333333337,
+                "y": 872
             }
         },
         "map.json#atlas_32x": {

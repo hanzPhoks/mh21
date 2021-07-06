@@ -29,7 +29,7 @@ WA.onLeaveZone('tuto-1', () => {
 });
 
 // Open the popup when we enter a given zone
-helloWorldPopup = WA.onEnterZone('zone-dons', () => {
+donsPopUp = WA.onEnterZone('zone-dons', () => {
     WA.openPopup("msg2", "Dieu nous a en effet mis à cœur de laisser l’entrée libre, afin que personne ne soit freiné pour des raisons financières. C’est donc grâce aux dons que chaque année le festival peut perdurer. Cette année, devenez vous aussi un partenaire du Festival en faisant un don à Event4Him.", [{
         label: "Faire un don",
         className: "primary",
@@ -41,8 +41,17 @@ helloWorldPopup = WA.onEnterZone('zone-dons', () => {
         }
     }]);
 });
-
 // Close the popup when we leave the zone.
 WA.onLeaveZone('zone-dons', () => {
-    helloWorldPopup.close();
+    donsPopUp.close();
+});
+
+
+donsChat = WA.onEnterZone('zone-2', () => {
+    WA.sendChatMessage("https://mitthim.fr/dons/", "Mitt'him");
+    WA.openTab("https://mitthim.fr/dons/");
+});
+
+donsChat = WA.onLeaveZone('zone-2', () => {
+    WA.sendChatMessage("Merci !", "Mitt'him");
 });
