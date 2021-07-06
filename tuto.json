@@ -197,6 +197,17 @@
                  "width":229.333333333333,
                  "x":1198.16666666667,
                  "y":259.833333333333
+                }, 
+                {
+                 "height":206.666666666667,
+                 "id":3,
+                 "name":"msg2",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":235.333333333333,
+                 "x":669.333333333333,
+                 "y":264
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -217,7 +228,7 @@
          "y":0
         }],
  "nextlayerid":38,
- "nextobjectid":3,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
         {
