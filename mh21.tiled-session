@@ -986,11 +986,11 @@
             }
         },
         "chapelle.json": {
-            "scale": 2,
+            "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 303,
-                "y": 281
+                "x": 172,
+                "y": 421
             }
         },
         "chapelle.json#Retro_exterior": {
@@ -1024,11 +1024,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 0.75,
-            "selectedLayer": 4,
+            "scale": 0.33,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 283.33333333333337,
-                "y": 872
+                "x": 1169.6969696969697,
+                "y": 663.6363636363637
             }
         },
         "map.json#atlas_32x": {
@@ -1043,10 +1043,10 @@
         },
         "mittcamp.json": {
             "scale": 0.5,
-            "selectedLayer": 6,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 1293,
-                "y": 1090
+                "x": 1288,
+                "y": 964
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1062,11 +1062,11 @@
             "scaleInEditor": 1
         },
         "mittlive.json": {
-            "scale": 0.75,
-            "selectedLayer": 5,
+            "scale": 0.5,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 710,
-                "y": 720
+                "x": 962,
+                "y": 784
             }
         },
         "mittlive.json#atlas_32x": {
@@ -1082,11 +1082,11 @@
             "scaleInEditor": 1
         },
         "mittshop.json": {
-            "scale": 0.75,
-            "selectedLayer": 1,
+            "scale": 0.5,
+            "selectedLayer": 32,
             "viewCenter": {
-                "x": 876.6666666666665,
-                "y": 598.6666666666665
+                "x": 662,
+                "y": 718
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
@@ -1249,9 +1249,9 @@
         },
         "tuto.json": {
             "scale": 0.5,
-            "selectedLayer": 13,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 787,
+                "x": 788,
                 "y": 368
             }
         },

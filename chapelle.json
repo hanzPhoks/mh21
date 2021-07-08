@@ -124,6 +124,12 @@
  "nextlayerid":13,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"dons.js"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
  "tileheight":32,
