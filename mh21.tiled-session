@@ -986,11 +986,11 @@
             }
         },
         "chapelle.json": {
-            "scale": 2,
+            "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 303,
-                "y": 281
+                "x": 172,
+                "y": 421
             }
         },
         "chapelle.json#Retro_exterior": {
@@ -1025,10 +1025,10 @@
         },
         "map.json": {
             "scale": 0.75,
-            "selectedLayer": 4,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 283.33333333333337,
-                "y": 872
+                "x": 2145.333333333333,
+                "y": 866.6666666666666
             }
         },
         "map.json#atlas_32x": {
@@ -1043,10 +1043,10 @@
         },
         "mittcamp.json": {
             "scale": 0.5,
-            "selectedLayer": 6,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1293,
-                "y": 1090
+                "x": 1288,
+                "y": 964
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1062,11 +1062,11 @@
             "scaleInEditor": 1
         },
         "mittlive.json": {
-            "scale": 0.75,
-            "selectedLayer": 5,
+            "scale": 3,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 710,
-                "y": 720
+                "x": 1085.3333333333333,
+                "y": 153
             }
         },
         "mittlive.json#atlas_32x": {
@@ -1083,10 +1083,10 @@
         },
         "mittshop.json": {
             "scale": 0.75,
-            "selectedLayer": 1,
+            "selectedLayer": 34,
             "viewCenter": {
-                "x": 876.6666666666665,
-                "y": 598.6666666666665
+                "x": 576,
+                "y": 741.3333333333333
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
@@ -1249,9 +1249,9 @@
         },
         "tuto.json": {
             "scale": 0.5,
-            "selectedLayer": 13,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 787,
+                "x": 788,
                 "y": 368
             }
         },
