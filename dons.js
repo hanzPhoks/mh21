@@ -1,4 +1,4 @@
-let donsPopUp;
+var donsPopUp = null;
 
 donsPopUp = WA.onEnterZone('zone-1', () => {
     WA.openPopup("msg1", "Dieu nous a en effet mis à cœur de laisser l’entrée libre, et c'est grâce aux dons que chaque année le festival peut se dérouler.", [{
