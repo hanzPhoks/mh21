@@ -1025,10 +1025,10 @@
         },
         "map.json": {
             "scale": 0.75,
-            "selectedLayer": 11,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1398.6666666666665,
-                "y": 1393.3333333333333
+                "x": 1397.333333333333,
+                "y": 1392
             }
         },
         "map.json#atlas_32x": {
@@ -1045,8 +1045,8 @@
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1280,
-                "y": 960
+                "x": 1288,
+                "y": 964
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1063,10 +1063,10 @@
         },
         "mittlive.json": {
             "scale": 3,
-            "selectedLayer": 4,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 800,
-                "y": 800
+                "x": 1085.3333333333333,
+                "y": 153
             }
         },
         "mittlive.json#atlas_32x": {
@@ -1085,8 +1085,8 @@
             "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 576,
-                "y": 741.3333333333333
+                "x": 1764,
+                "y": 1090.6666666666665
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
