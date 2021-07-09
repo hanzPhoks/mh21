@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "mittcamp.json",
+    "activeFile": "mittshop.json",
     "expandedProjectPaths": [
+        "ressources",
         "ressources/tilesets",
         "C:/Users/Schengele/Documents/SEL-workadventure",
-        ".",
-        "ressources"
+        "."
     ],
     "fileStates": {
         "": {
@@ -989,8 +989,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 172,
-                "y": 421
+                "x": 320,
+                "y": 480
             }
         },
         "chapelle.json#Retro_exterior": {
@@ -1025,10 +1025,10 @@
         },
         "map.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 2145.333333333333,
-                "y": 866.6666666666666
+                "x": 1398.6666666666665,
+                "y": 1393.3333333333333
             }
         },
         "map.json#atlas_32x": {
@@ -1045,8 +1045,8 @@
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1288,
-                "y": 964
+                "x": 1280,
+                "y": 960
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1065,8 +1065,8 @@
             "scale": 3,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1085.3333333333333,
-                "y": 153
+                "x": 800,
+                "y": 800
             }
         },
         "mittlive.json#atlas_32x": {
@@ -1083,7 +1083,7 @@
         },
         "mittshop.json": {
             "scale": 0.75,
-            "selectedLayer": 34,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 576,
                 "y": 741.3333333333333
@@ -1277,13 +1277,13 @@
     "project": "mh21.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json",
         "tuto.json",
         "map.json",
         "mittlive.json",
+        "mittcamp.json",
         "chapelle.json",
         "mittshop.json",
-        "mittcamp.json",
+        "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json",
         "ressources/tilesets/retro_interior.tsx",
         "ressources/tilesets/retro_exterior.tsx",
         "ressources/tilesets/logos.tsx",

@@ -272,7 +272,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/user\/MirellaPageOfficiel"
+                 "value":"https:\/\/mitthim.fr\/speaker\/mirella\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -290,7 +290,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/user\/LAOHEAVENMUSIC"
+                 "value":"https:\/\/mitthim.fr\/speaker\/sebastien-geffroy\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -308,7 +308,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/user\/alexiarabechannel"
+                 "value":"https:\/\/mitthim.fr\/speaker\/alexia-rabe\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -326,7 +326,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/channel\/UCX47pe2Lprb0zFOFp1siDYw"
+                 "value":"https:\/\/mitthim.fr\/speaker\/halo-music\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -344,7 +344,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/channel\/UC01Lbrb3W2p2YFns73D8JQw"
+                 "value":"https:\/\/mitthim.fr\/speaker\/jeremy-besnard\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -362,7 +362,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/channel\/UCzMauwnWnPHpmiHSa5BobiQ"
+                 "value":"https:\/\/mitthim.fr\/speaker\/generation-temoin\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -380,7 +380,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/channel\/UCD1abbs5BwD4fibdwGo4JRA"
+                 "value":"https:\/\/mitthim.fr\/speaker\/samuel-olivier\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -398,7 +398,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/channel\/UCW0lNu0ijva2yxnGGLT9QXg"
+                 "value":"https:\/\/mitthim.fr\/speaker\/elle-limbear\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -416,7 +416,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/user\/KaBeOGC"
+                 "value":"https:\/\/www.facebook.com\/kabeofficial\/"
                 }],
          "type":"tilelayer",
          "visible":true,
