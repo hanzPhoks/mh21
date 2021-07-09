@@ -94,16 +94,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/mitthim.fr\/dons\/"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
-                }, 
-                {
                  "name":"zone",
                  "type":"string",
                  "value":"zone-2"
@@ -121,16 +111,6 @@
          "name":"dons-1",
          "opacity":1,
          "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/mitthim.fr\/dons\/"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
-                }, 
                 {
                  "name":"zone",
                  "type":"string",

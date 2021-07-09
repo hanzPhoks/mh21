@@ -34,16 +34,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/mitthim.fr\/dons\/"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
-                }, 
-                {
                  "name":"zone",
                  "type":"string",
                  "value":"zone-2"
@@ -61,16 +51,6 @@
          "name":"dons-1",
          "opacity":1,
          "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/mitthim.fr\/dons\/"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
-                }, 
                 {
                  "name":"zone",
                  "type":"string",
@@ -270,9 +250,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"zone",
                  "type":"string",
-                 "value":"https:\/\/mitthim.fr\/speaker\/mirella\/"
+                 "value":"yt-mirella"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -288,9 +268,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"zone",
                  "type":"string",
-                 "value":"https:\/\/mitthim.fr\/speaker\/sebastien-geffroy\/"
+                 "value":"yt-sebastienGeoffrey"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -306,9 +286,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"zone",
                  "type":"string",
-                 "value":"https:\/\/mitthim.fr\/speaker\/alexia-rabe\/"
+                 "value":"yt-alexiaRabe"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -324,9 +304,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"zone",
                  "type":"string",
-                 "value":"https:\/\/mitthim.fr\/speaker\/halo-music\/"
+                 "value":"yt-halo"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -342,9 +322,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"zone",
                  "type":"string",
-                 "value":"https:\/\/mitthim.fr\/speaker\/jeremy-besnard\/"
+                 "value":"yt-jeremyBesnard"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -360,9 +340,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"zone",
                  "type":"string",
-                 "value":"https:\/\/mitthim.fr\/speaker\/generation-temoin\/"
+                 "value":"yt-generationTemoin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -378,9 +358,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"zone",
                  "type":"string",
-                 "value":"https:\/\/mitthim.fr\/speaker\/samuel-olivier\/"
+                 "value":"yt-samuelOlivier"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -396,9 +376,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"zone",
                  "type":"string",
-                 "value":"https:\/\/mitthim.fr\/speaker\/elle-limbear\/"
+                 "value":"yt-elleLimbear"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -414,9 +394,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"zone",
                  "type":"string",
-                 "value":"https:\/\/www.facebook.com\/kabeofficial\/"
+                 "value":"yt-kabe"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -608,7 +588,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"dons.js"
+         "value":"mittshop.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
