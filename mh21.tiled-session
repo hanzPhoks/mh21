@@ -1025,10 +1025,10 @@
         },
         "map.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 27,
             "viewCenter": {
-                "x": 1397.333333333333,
-                "y": 1392
+                "x": 156,
+                "y": 1037.3333333333333
             }
         },
         "map.json#atlas_32x": {
@@ -1082,11 +1082,11 @@
             "scaleInEditor": 1
         },
         "mittshop.json": {
-            "scale": 0.75,
-            "selectedLayer": 2,
+            "scale": 0.5,
+            "selectedLayer": 22,
             "viewCenter": {
-                "x": 1764,
-                "y": 1090.6666666666665
+                "x": 916,
+                "y": 896
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
