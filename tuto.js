@@ -22,8 +22,7 @@ WA.onLeaveZone('tuto-1', () => {
     helloWorldPopup.close();
 });
 
-
-WA.onEnterZone('zone-dons', () => {
+/*WA.onEnterZone('zone-dons', () => {
     donsPopUp = WA.openPopup("msg2", "Dieu nous a en effet mis à cœur de laisser l’entrée libre, et c'est grâce aux dons que chaque année le festival peut se dérouler.", [{
         label: "Faire un don",
         className: "primary",
@@ -36,4 +35,4 @@ WA.onEnterZone('zone-dons', () => {
 
 WA.onLeaveZone('zone-dons', () => {
     donsPopUp.close();
-});
+});*/

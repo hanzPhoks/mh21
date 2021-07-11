@@ -1083,9 +1083,9 @@
         },
         "mittshop.json": {
             "scale": 0.5,
-            "selectedLayer": 22,
+            "selectedLayer": 32,
             "viewCenter": {
-                "x": 916,
+                "x": 1288,
                 "y": 896
             }
         },
@@ -1275,7 +1275,7 @@
         "chapelle.json"
     ],
     "project": "mh21.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "tuto.json",
         "map.json",
