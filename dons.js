@@ -1,7 +1,7 @@
 let donsPopUp;
 
 WA.onEnterZone('zone-1', () => {
-    donsPopUp = WA.openPopup("msg1", "Dieu nous a en effet mis à cœur de laisser l’entrée libre, et c'est grâce aux dons que chaque année le festival peut se dérouler.", [{
+    donsPopUp = WA.openPopup("msg1", "our vous offrir des concerts de musique chrétienne, l’entrée du festival est gratuite. C’est grâce à vous que Mitt’Him est possible : même modeste, votre don nous encourage à continuer 😊", [{
         label: "Faire un don",
         className: "primary",
         callback: (popup) => {
@@ -17,7 +17,7 @@ WA.onLeaveZone('zone-1', () => {
 
 
 WA.onEnterZone('zone-2', () => {
-    donsPopUp = WA.openPopup("msg2", "Dieu nous a en effet mis à cœur de laisser l’entrée libre, et c'est grâce aux dons que chaque année le festival peut se dérouler.", [{
+    donsPopUp = WA.openPopup("msg2", "our vous offrir des concerts de musique chrétienne, l’entrée du festival est gratuite. C’est grâce à vous que Mitt’Him est possible : même modeste, votre don nous encourage à continuer 😊", [{
         label: "Faire un don",
         className: "primary",
         callback: (popup) => {
