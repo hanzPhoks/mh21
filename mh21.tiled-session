@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "mittshop.json",
+    "activeFile": "chapelle.json",
     "expandedProjectPaths": [
-        "ressources",
         "ressources/tilesets",
+        "ressources",
         "C:/Users/Schengele/Documents/SEL-workadventure",
         "."
     ],
@@ -1024,11 +1024,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 0.75,
-            "selectedLayer": 27,
+            "scale": 1.5,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 156,
-                "y": 1037.3333333333333
+                "x": 1216,
+                "y": 880
             }
         },
         "map.json#atlas_32x": {
@@ -1062,11 +1062,11 @@
             "scaleInEditor": 1
         },
         "mittlive.json": {
-            "scale": 3,
-            "selectedLayer": 3,
+            "scale": 0.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1085.3333333333333,
-                "y": 153
+                "x": 600,
+                "y": 1000
             }
         },
         "mittlive.json#atlas_32x": {
@@ -1281,8 +1281,8 @@
         "map.json",
         "mittlive.json",
         "mittcamp.json",
-        "chapelle.json",
         "mittshop.json",
+        "chapelle.json",
         "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json",
         "ressources/tilesets/retro_interior.tsx",
         "ressources/tilesets/retro_exterior.tsx",
