@@ -1024,11 +1024,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 1.5,
+            "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 350,
-                "y": 298
+                "x": 77.33333333333337,
+                "y": 374.6666666666667
             }
         },
         "map.json#atlas_32x": {
@@ -1043,7 +1043,7 @@
         },
         "mittcamp.json": {
             "scale": 0.33,
-            "selectedLayer": 2,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 872.7272727272726,
                 "y": 872.7272727272727
@@ -1063,7 +1063,7 @@
         },
         "mittlive.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 7,
             "viewCenter": {
                 "x": 772,
                 "y": 796
@@ -1085,8 +1085,8 @@
             "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1350,
-                "y": 758
+                "x": 1264,
+                "y": 800
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
@@ -1251,8 +1251,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 788,
-                "y": 368
+                "x": 960,
+                "y": 478
             }
         },
         "tuto.json#Retro_exterior": {
