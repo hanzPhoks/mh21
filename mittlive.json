@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/L5gC3zPUJco&autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/L5gC3zPUJco?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -30,7 +30,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/3dyJEIvbC_0&autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/3dyJEIvbC_0?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
