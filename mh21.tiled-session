@@ -1024,11 +1024,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 1.5,
-            "selectedLayer": 9,
+            "scale": 0.5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1216,
-                "y": 880
+                "x": 1116,
+                "y": 870
             }
         },
         "map.json#atlas_32x": {
@@ -1042,11 +1042,11 @@
             "scaleInEditor": 1
         },
         "mittcamp.json": {
-            "scale": 0.5,
-            "selectedLayer": 4,
+            "scale": 0.33,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1288,
-                "y": 964
+                "x": 927.2727272727271,
+                "y": 1318.1818181818182
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1062,11 +1062,11 @@
             "scaleInEditor": 1
         },
         "mittlive.json": {
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "scale": 1.5,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 600,
-                "y": 1000
+                "x": 361.33333333333326,
+                "y": 1311.3333333333333
             }
         },
         "mittlive.json#atlas_32x": {
@@ -1083,7 +1083,7 @@
         },
         "mittshop.json": {
             "scale": 0.5,
-            "selectedLayer": 32,
+            "selectedLayer": 13,
             "viewCenter": {
                 "x": 1288,
                 "y": 896
@@ -1251,8 +1251,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 788,
-                "y": 368
+                "x": 960,
+                "y": 478
             }
         },
         "tuto.json#Retro_exterior": {
@@ -1275,7 +1275,7 @@
         "chapelle.json"
     ],
     "project": "mh21.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "tuto.json",
         "map.json",
