@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "chapelle.json",
+    "activeFile": "map.json",
     "expandedProjectPaths": [
+        "C:/Users/Schengele/Documents/SEL-workadventure",
         "ressources/tilesets",
         "ressources",
-        "C:/Users/Schengele/Documents/SEL-workadventure",
         "."
     ],
     "fileStates": {
@@ -1024,11 +1024,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 0.5,
-            "selectedLayer": 4,
+            "scale": 1.5,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1116,
-                "y": 870
+                "x": 350,
+                "y": 298
             }
         },
         "map.json#atlas_32x": {
@@ -1043,10 +1043,10 @@
         },
         "mittcamp.json": {
             "scale": 0.33,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 927.2727272727271,
-                "y": 1318.1818181818182
+                "x": 872.7272727272726,
+                "y": 872.7272727272727
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1062,11 +1062,11 @@
             "scaleInEditor": 1
         },
         "mittlive.json": {
-            "scale": 1.5,
-            "selectedLayer": 5,
+            "scale": 0.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 361.33333333333326,
-                "y": 1311.3333333333333
+                "x": 772,
+                "y": 796
             }
         },
         "mittlive.json#atlas_32x": {
@@ -1083,10 +1083,10 @@
         },
         "mittshop.json": {
             "scale": 0.5,
-            "selectedLayer": 13,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1288,
-                "y": 896
+                "x": 1350,
+                "y": 758
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
@@ -1251,8 +1251,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 960,
-                "y": 478
+                "x": 788,
+                "y": 368
             }
         },
         "tuto.json#Retro_exterior": {
@@ -1278,11 +1278,11 @@
     "property.type": "bool",
     "recentFiles": [
         "tuto.json",
-        "map.json",
-        "mittlive.json",
-        "mittcamp.json",
-        "mittshop.json",
         "chapelle.json",
+        "mittshop.json",
+        "mittcamp.json",
+        "mittlive.json",
+        "map.json",
         "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json",
         "ressources/tilesets/retro_interior.tsx",
         "ressources/tilesets/retro_exterior.tsx",
