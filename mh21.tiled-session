@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "map.json",
+    "activeFile": "mittlive.json",
     "expandedProjectPaths": [
-        "C:/Users/Schengele/Documents/SEL-workadventure",
         "ressources/tilesets",
-        "ressources",
-        "."
+        ".",
+        "C:/Users/Schengele/Documents/SEL-workadventure",
+        "ressources"
     ],
     "fileStates": {
         "": {
@@ -1027,8 +1027,8 @@
             "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 77.33333333333337,
-                "y": 374.6666666666667
+                "x": 1216,
+                "y": 879.9999999999999
             }
         },
         "map.json#atlas_32x": {
@@ -1043,10 +1043,10 @@
         },
         "mittcamp.json": {
             "scale": 0.33,
-            "selectedLayer": 5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 872.7272727272726,
-                "y": 872.7272727272727
+                "x": 1278.7878787878788,
+                "y": 957.5757575757575
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1063,7 +1063,7 @@
         },
         "mittlive.json": {
             "scale": 0.5,
-            "selectedLayer": 7,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 772,
                 "y": 796
@@ -1083,10 +1083,10 @@
         },
         "mittshop.json": {
             "scale": 0.5,
-            "selectedLayer": 3,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 1264,
-                "y": 800
+                "x": 1350,
+                "y": 758
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
@@ -1278,11 +1278,11 @@
     "property.type": "bool",
     "recentFiles": [
         "tuto.json",
+        "map.json",
         "chapelle.json",
         "mittshop.json",
         "mittcamp.json",
         "mittlive.json",
-        "map.json",
         "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json",
         "ressources/tilesets/retro_interior.tsx",
         "ressources/tilesets/retro_exterior.tsx",
