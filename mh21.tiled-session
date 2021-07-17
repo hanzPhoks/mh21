@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "mittlive.json",
+    "activeFile": "mittshop.json",
     "expandedProjectPaths": [
-        "ressources/tilesets",
+        "ressources",
         ".",
         "C:/Users/Schengele/Documents/SEL-workadventure",
-        "ressources"
+        "ressources/tilesets"
     ],
     "fileStates": {
         "": {
@@ -1024,11 +1024,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 0.75,
-            "selectedLayer": 5,
+            "scale": 1.5,
+            "selectedLayer": 32,
             "viewCenter": {
-                "x": 1216,
-                "y": 879.9999999999999
+                "x": 2152.6666666666665,
+                "y": 932
             }
         },
         "map.json#atlas_32x": {
@@ -1042,11 +1042,11 @@
             "scaleInEditor": 1
         },
         "mittcamp.json": {
-            "scale": 0.33,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1278.7878787878788,
-                "y": 957.5757575757575
+                "x": 1264,
+                "y": 1000
             }
         },
         "mittcamp.json#atlas_32x": {
@@ -1082,11 +1082,11 @@
             "scaleInEditor": 1
         },
         "mittshop.json": {
-            "scale": 0.75,
-            "selectedLayer": 5,
+            "scale": 0.5,
+            "selectedLayer": 34,
             "viewCenter": {
-                "x": 1952,
-                "y": 272
+                "x": 1156,
+                "y": 876
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
@@ -1279,10 +1279,10 @@
     "recentFiles": [
         "tuto.json",
         "map.json",
+        "mittlive.json",
+        "mittcamp.json",
         "chapelle.json",
         "mittshop.json",
-        "mittcamp.json",
-        "mittlive.json",
         "C:/Users/Schengele/Documents/GitHub/visa/feu-de-camp.json",
         "ressources/tilesets/retro_interior.tsx",
         "ressources/tilesets/retro_exterior.tsx",
