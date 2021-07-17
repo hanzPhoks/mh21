@@ -1,5 +1,8 @@
 let youtubePopUp;
 let donsPopUp;
+let rimliPopUp;
+let e4hPopUp;
+
 let arrayYT = [
     {
         "zone" : "yt-mirella",
@@ -96,4 +99,34 @@ WA.onEnterZone('zone-2', () => {
 });
 WA.onLeaveZone('zone-2', () => {
     donsPopUp.close();
+});
+
+
+WA.onEnterZone('rimli', () => {
+    rimliPopUp = WA.openPopup("rimli", "La ligue pour la lecture de la bible.", [{
+        label: "Voir le site",
+        className: "primary",
+        callback: (popup) => {
+            WA.openTab("http://rimli.com/accueil-de-la-difference/familles-de-primo-arrivants/");
+            popup.close();
+        }
+    }]);
+});
+WA.onLeaveZone('rimli', () => {
+    rimliPopUp.close();
+});
+
+
+WA.onEnterZone('e4h', () => {
+    e4hPopUp = WA.openPopup("e4h", "L'association qui porte le festival Mitt'him.", [{
+        label: "Voir le site",
+        className: "primary",
+        callback: (popup) => {
+            WA.openTab("http://www.event4him.com/presentation");
+            popup.close();
+        }
+    }]);
+});
+WA.onLeaveZone('e4h', () => {
+    e4hPopUp.close();
 });

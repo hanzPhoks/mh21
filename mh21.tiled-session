@@ -1082,11 +1082,11 @@
             "scaleInEditor": 1
         },
         "mittshop.json": {
-            "scale": 0.5,
-            "selectedLayer": 11,
+            "scale": 0.75,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1350,
-                "y": 758
+                "x": 1952,
+                "y": 272
             }
         },
         "mittshop.json#atlas_32x-super-retro": {
